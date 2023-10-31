@@ -1,3 +1,14 @@
 # Domains added below will be ignored, For example:
+# [Icloud]
 0.0.0.0 metrics.icloud.com
 
+# [Apple]
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 ut.iadsdk.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
